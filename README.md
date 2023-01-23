@@ -16,3 +16,7 @@ After that type `apt install curl -y`.
 And then type `bash <(curl -s https://raw.githubusercontent.com/pierrelasse/OnWorksFixa/main/script.sh)` :DDDD
 
 And then wait.
+
+# Compact version
+`sudo -i` and type `123456`
+`apt install curl -y;bash <(curl -s https://raw.githubusercontent.com/pierrelasse/OnWorksFixa/main/script.sh)`
